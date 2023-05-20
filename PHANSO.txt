@@ -1,4 +1,4 @@
-Phan so A: 1/3
+Phan so A: 1/4
 Phan so B: 2/5
-Tich cua A va B: 2/15
-Gia tri cua phan so tich: 0.133333
+Tich cua A va B: 2/20
+Gia tri cua phan so tich: 0.1
