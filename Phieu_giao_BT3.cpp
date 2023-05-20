@@ -62,4 +62,5 @@ int main()
     f << "Phan so B: " << b << endl;
     f << "Tich cua A va B: " << c << endl;
     f << "Gia tri cua phan so tich: " << ++c << endl;
+    f.close();
 }
