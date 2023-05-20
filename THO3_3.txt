@@ -1,0 +1,12 @@
+Ma tran thuc vua nhap: 
+1 2.5 1.2 
+Ma tran nguyen vua nhap: 
+1 
+2 
+3 
+Ma tran thuc chuyen vi:
+1 
+2.5 
+1.2 
+Ma tran nguyen chuyen vi:
+1 2 3 

@@ -1,0 +1,4 @@
+SP1: 3 + 4*i
+SP2: 1 + 2*i
+Tong 2 so phuc: 4 + 6*i
+Hieu 2 so phuc: 2 + 2*i

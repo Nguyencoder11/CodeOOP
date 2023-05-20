@@ -1,0 +1,4 @@
+Mang da nhap: 1 8 3 7 2 
+
+Mang sap xep tang dan: 1 2 3 7 8 
+Mang sap xep giam dan: 8 7 3 2 1 

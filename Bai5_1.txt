@@ -1,0 +1,11 @@
+----- CAC PHAN SO DA NHAP -----
+Phan so A: 1/2
+Phan so B: 2/3
+Tich 2 phan so: 2/6
+Gia tri cua tich: 0.333333
+Thuong 2 phan so: 3/4
+Gia tri cua thuong: 0.75
+Tong 2 phan so: 7/6
+Gia tri cua tong: 1.16667
+Hieu 2 phan so: -1/6
+Gia tri cua hieu: -0.166667
