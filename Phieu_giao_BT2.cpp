@@ -55,6 +55,7 @@ public:
     }
 
     friend void studentCourse11(CLASS &a);
+    friend void sortCourse(CLASS &a);
 };
 
 class CLASS
@@ -108,6 +109,7 @@ public:
     }
 
     friend void studentCourse11(CLASS &a);
+    friend void sortCourse(CLASS &a);
 };
 
 void studentCourse11(CLASS &a)
@@ -128,10 +130,26 @@ void studentCourse11(CLASS &a)
         cout << "Not have students study in course 11\n";
 }
 
+void sortCourse(CLASS &a)
+{
+    for (int i = 0; i < a.n - 1; i++)
+    {
+        for (int j = a.n - 1; j > i; j--)
+        {
+            if (a.x[j].course < a.x[j - 1].course)
+            {
+                swap(a.x[j], a.x[j - 1]);
+            }
+        }
+    }
+}
+
 int main()
 {
     CLASS myclass;
     myclass.input();
     myclass.output();
     studentCourse11(myclass);
+    sortCourse(myclass);
+    myclass.output();
 }

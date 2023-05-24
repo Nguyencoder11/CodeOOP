@@ -3,6 +3,6 @@ Ba canh tam giac: 3 4 5
 Chu vi: 12
 
 2. Tam giac Q
-Ba canh tam giac: 2 5 7
-Chu vi: 14
+Ba canh tam giac: 2 5 6
+Chu vi: 13
 
